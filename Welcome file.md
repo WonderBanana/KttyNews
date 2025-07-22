@@ -1,4 +1,15 @@
-<h2 id="its-official">It’s Official!</h2>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h2 id="its-official">It’s Official!</h2>
 <p>The KTTY Tamers Mint has officially been announced.</p>
 <p>If you are new to the concept of Tamers, please head over to our <strong>KTTY Paper</strong>.</p>
 <h4 id="mint-details">Mint Details</h4>
@@ -20,4 +31,7 @@
 <h6 id="phase-4-public">Phase 4: Public</h6>
 <p><strong>Time Window:</strong> Open until Mint Out</p>
 <p><strong>Allocation:</strong> Remainder from previous rounds</p>
+</div>
+</body>
 
+</html>
