@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome file</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><p>Hello Tamers!</p>
+<p>Hello Tamers!</p>
 <h1 id="season-2-introduction">Season 2 Introduction</h1>
 <p>Season 2 will work slightly differently from our first, as we are adopting an <strong>“open-season format.”</strong></p>
 <p>What does this mean for you, the players?</p>
@@ -123,7 +112,4 @@
 <p>Your feedback and continued engagement are vital as we take the platform to the next level together.</p>
 <p>Until next time,</p>
 <p><strong>– Dev KTTY</strong></p>
-</div>
-</body>
 
-</html>
